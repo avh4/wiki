@@ -1,4 +1,3 @@
-
 ## Algorithms
 
  - [Tempo-Synced LFO Wobble Bass](http://codehop.com/2011/07/)
