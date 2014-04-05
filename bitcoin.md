@@ -1,7 +1,7 @@
-
 ## Wallets
 
  - https://www.hivewallet.com/
+ - https://play.google.com/store/apps/details?id=com.coinbase.android also can buy/sell through coinbase.com
  - https://electrum.org/
  - https://play.google.com/store/apps/details?id=com.mycelium.wallet lightweight wallet, Android
  - https://play.google.com/store/apps/details?id=de.schildbach.wallet official Android wallet - stored on phone, requires manual backup
