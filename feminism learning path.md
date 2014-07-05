@@ -1,4 +1,4 @@
-
+ - [A Day In The Life With Female Experience Simulator](http://indiestatik.com/2013/07/31/female-experience-simulator/) #female-experience #star #conflict
  - ---
  - [May we have a discussion about maternity leave please?](http://www.reddit.com/r/TwoXChromosomes/comments/1fm86r/may_we_have_a_discussion_about_maternity_leave/) #maternity-leave
  - [What is being done about maternity leave in America?](http://www.reddit.com/r/BabyBumps/comments/1cyzok/what_is_being_done_about_maternity_leave_in/) #maternity-leave
@@ -8,3 +8,6 @@
  - [Should U.S. Companies Pay for Maternity Leave? Obama Thinks So](http://www.theblaze.com/stories/2014/06/23/should-u-s-companies-pay-for-maternity-leave-obama-thinks-so/) #maternity-leave
  - [TEDx: Tavi Gevinson: A teen just trying to figure it out](http://www.ted.com/talks/tavi_gevinson_a_teen_just_trying_to_figure_it_out) #video #role-models
  - [TED: Johanna Blakley: Social media and the end of gender](http://www.ted.com/talks/johanna_blakley_social_media_and_the_end_of_gender) #video
+ - [TED: Courtney E. Martin: This isn't her mother's feminism](http://www.ted.com/talks/courtney_martin_reinventing_feminism) #video
+ - [The Myth of Shared Womanhood and How It Perpetuates Inequality](http://www.blackgirldangerous.org/2013/05/2013513the-myth-of-shared-female-experience/)
+ - [The Female Experience: An American Documentary](http://smile.amazon.com/gp/product/0195072588/) #book #female-experience
