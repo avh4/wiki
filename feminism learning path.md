@@ -6,3 +6,4 @@
  - [I think that any company that offers maternity leave must also, with identical allowances, grant paternity leave as well. CMV](http://www.reddit.com/r/changemyview/comments/1kw05u/i_think_that_any_company_that_offers_maternity/) #maternity-leave
  - [Why is maternity leave considered justification for lesser pay?](http://www.reddit.com/r/TwoXChromosomes/comments/10g2ok/why_is_maternity_leave_considered_justification/) #maternity-leave
  - [Should U.S. Companies Pay for Maternity Leave? Obama Thinks So](http://www.theblaze.com/stories/2014/06/23/should-u-s-companies-pay-for-maternity-leave-obama-thinks-so/) #maternity-leave
+ - [TEDx: Tavi Gevinson: A teen just trying to figure it out](http://www.ted.com/talks/tavi_gevinson_a_teen_just_trying_to_figure_it_out) #video #role-models
