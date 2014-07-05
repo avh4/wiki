@@ -1,2 +1,3 @@
  - [Cedar - Writing Specs](https://github.com/pivotal/cedar/wiki/Writing-specs) #testing
  - [Demystifying NSApplication by recreating it](http://www.cocoawithlove.com/2009/01/demystifying-nsapplication-by.html) #star
+ - [Method Swizzling](http://nshipster.com/method-swizzling/) #star
