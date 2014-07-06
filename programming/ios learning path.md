@@ -1,3 +1,5 @@
  - [Cedar - Writing Specs](https://github.com/pivotal/cedar/wiki/Writing-specs) #testing
  - [Demystifying NSApplication by recreating it](http://www.cocoawithlove.com/2009/01/demystifying-nsapplication-by.html) #star
  - [Method Swizzling](http://nshipster.com/method-swizzling/) #star
+ - [Collections of zeroing weak references under ARC](http://stackoverflow.com/questions/14209070/collections-of-zeroing-weak-references-under-arc/14219598#14219598)
+ - [Suppress warning “Category is implementing a method which will also be implemented by its primary class”](http://stackoverflow.com/a/9622779)
