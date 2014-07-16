@@ -6,7 +6,7 @@
    - automatic conflict resolution
    - retry transactions
  - automatic, and atomic (safe writes) index updates
- - strategy for scaling to ... (what scale is appropriate?)
+ - strategy for scaling/clustering to ... (what scale is appropriate?)
  - strategy for data permissions
  - simple user authentication
  - provides authentication as a service to apps
